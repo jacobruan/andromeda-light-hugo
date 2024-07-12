@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Andromeda-light - Software and SAAS Landing Hugo Theme</title>
+    <link>http://locahost:3000/posts/</link>
+    <description>Recent content in Blog on Andromeda-light - Software and SAAS Landing Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://locahost:3000/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>http://locahost:3000/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://locahost:3000/posts/hello-world/</guid>
+      <description>Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam.</description>
+    </item>
+    
+  </channel>
+</rss>
